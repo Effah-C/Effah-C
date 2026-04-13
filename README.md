@@ -8,7 +8,7 @@
 <h2>👨‍💻  Projects:</h2>
 
 - <b>Excel Macros (VBA)</b>
-  - [Praciting Vba Scripts](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Payment Order Reconciliation-Automation]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Effah-C/payment-order-reconciliation-automatio))
   
 - <b>Power Bi</b>
   - Coming soon ⏳
