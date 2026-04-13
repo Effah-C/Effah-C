@@ -8,13 +8,13 @@
 <h2>👨‍💻  Projects:</h2>
 
 - <b>Excel Macros (VBA)</b>
-  - [Payment Order Reconciliation-Automation]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Effah-C/payment-order-reconciliation-automatio))
+  - [Payment Order Reconciliation-Automation]([https://github.com/Effah-C/payment-order-reconciliation-automatio])
   
 - <b>Power Bi</b>
   - Coming soon ⏳
     
 - <b>Python</b>
-  - Coming soon ⏳
+- [Payment Order Reconciliation-Automation]([(https://www.kaggle.com/code/christianeffaho/customer-churn-prediction)](https://www.kaggle.com/code/christianeffaho/customer-churn-prediction)])
 
  - <b>SQL</b>
    - Coming soon ⏳
