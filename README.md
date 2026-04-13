@@ -18,7 +18,3 @@
 
  - <b>SQL</b>
    - Coming soon ⏳
-<b>
-    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Effah-C)](https://github.com/Effah-C/github-readme-stats)
--->
