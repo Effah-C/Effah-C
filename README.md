@@ -14,7 +14,7 @@
   - Coming soon ⏳
     
 - <b>Python</b>
-  - [Payment Order Reconciliation-Automation](https://www.kaggle.com/code/christianeffaho/customer-churn-prediction)
+  - [Customer Churn Analysis for a Retail Bank](https://www.kaggle.com/code/christianeffaho/customer-churn-prediction)
 
  - <b>SQL</b>
    - Coming soon ⏳
